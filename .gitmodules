@@ -1,0 +1,3 @@
+[submodule "bpi-tools"]
+	path = bpi-tools
+	url = https://github.com/BPI-SINOVOIP/bpi-tools/
